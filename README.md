@@ -15,5 +15,5 @@ Convert a string to an NT hash
 ConvertTo-NT -string "Password123"
 
 # Example 2
-"Password123" | ConvetTo-NT
+"Password123" | ConvertTo-NT
 ```
